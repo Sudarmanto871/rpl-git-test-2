@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Mencoba Git Remote yang reponya dari Git local</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est exercitationem aspernatur autem nam temporibus aliquid nobis optio asperiores nihil! Autem quo minus dolorem consequatur quam! Accusantium quia consequatur cum reiciendis!</p>
 </body>
 </html>
